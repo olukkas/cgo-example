@@ -1,4 +1,4 @@
 .idea
 
-./lib/libtree.a
-./lib/tree.o
+/lib/libtree.a
+/lib/tree.o
