@@ -11,7 +11,7 @@ u must have gcc and go installed (this project uses 1.21.4 of go)
 ## How to Run
 on linux
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine, the run:
 
 ```bash
    make lib
